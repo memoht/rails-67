@@ -1,0 +1,28 @@
+{
+  "name": "keloh",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.10.1",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "^5.4.0",
+    "bootstrap": "^5.1.0",
+    "cable_ready": "^4.5.0",
+    "chartkick": "^4.1.1",
+    "flatpickr": "^4.6.9",
+    "highcharts": "^9.3.2",
+    "soft-ui-design-system": "^1.0.4",
+    "stimulus": "^1.1.1",
+    "stimulus_reflex": "^3.4.1",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  }
+}
